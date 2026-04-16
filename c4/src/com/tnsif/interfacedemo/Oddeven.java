@@ -9,10 +9,10 @@ public class Oddeven {
 		int num =sc.nextInt();
 		
 		if(num%2==0) {
-			System.out.print(num+" " +"is a odd no.");
+			System.out.print(num +"is a odd no.");
 		}
 		else {
-			System.out.print(num+ " " +"is an even no.");
+			System.out.print(num+"is an even no.");
 		}
 	}
 

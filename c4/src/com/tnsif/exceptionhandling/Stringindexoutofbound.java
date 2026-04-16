@@ -1,0 +1,16 @@
+package com.tnsif.exceptionhandling;
+
+public class Stringindexoutofbound {
+	public static void main(String[] args) {
+		String str="atria college";
+		try {
+			char ch=str.charAt(20);
+		}
+		catch(Exception r) {
+			System.out.println(r);
+		}
+		System.out.println("exception caught");
+		
+	}
+
+}
