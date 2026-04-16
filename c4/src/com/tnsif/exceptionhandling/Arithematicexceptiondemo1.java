@@ -1,6 +1,6 @@
 package com.tnsif.exceptionhandling;
 
-public class Arithematicexception {
+public class Arithematicexceptiondemo1 {
     public static void main(String[] args) {
 
         int no1 = 50 / 5;
